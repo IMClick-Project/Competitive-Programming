@@ -25,7 +25,7 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 
 # Attributions and references
 
-## Audiovisual resources:
+## Audiovisual resources
 
 * **canva.com** images, audiovisual effects, and fonts.
 * **dafont.com**: Kimberly Geswein.
