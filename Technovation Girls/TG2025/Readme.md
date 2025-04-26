@@ -4,8 +4,8 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 
 # How to download and open the app?
 
-1. Click [here](https://github.com/IMClick-Project/Programming/raw/refs/heads/main/Technovation%20Girls/TG2025/Animal%20Love.sb3){:target="_blank"} to download the sb3 file.
-2. Open the following web page in your browser: <a href="https://playground.raise.mit.edu/create/" target="_blank">https://playground.raise.mit.edu/create/</a>
+1. Click [here](https://github.com/IMClick-Project/Programming/raw/refs/heads/main/Technovation%20Girls/TG2025/Animal%20Love.sb3) to download the sb3 file.
+2. Open the following web page in your browser: https://playground.raise.mit.edu/create/
 3. Set the language.
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%203.png" height="50%">
 4. Open the downloaded sb3 file.
