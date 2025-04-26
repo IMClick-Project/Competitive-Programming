@@ -4,18 +4,18 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 
 # How to download and open the app?
 
-1. Click <a href="https://github.com/IMClick-Project/Programming/raw/refs/heads/main/Technovation%20Girls/Animal%20Love.sb3" target="_blank">here</a> to download the sb3 file.
+1. Click <a href="https://github.com/IMClick-Project/Programming/raw/refs/heads/main/Technovation%20Girls/TG2025/Animal%20Love.sb3" target="_blank">here</a> to download the sb3 file.
 2. Open the following web page in your browser: <a href="https://playground.raise.mit.edu/create/" target="_blank">https://playground.raise.mit.edu/create/</a>
 3. Set the language.
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%203.png" height="50%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%203.png" height="50%">
 4. Open the downloaded sb3 file.
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2041.png" height="50%">
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2042.png" height="50%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%2041.png" height="50%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%2042.png" height="50%">
 5. Allow the use of a camera.
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%205.png" height="25%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%205.png" height="25%">
 6. Maximize the screen and click the Go button to start the application.
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2061.png" height="50%">
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2062.png" height="50%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%2061.png" height="50%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%2062.png" height="50%">
 
 # More information
 
@@ -36,6 +36,7 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 * **vecteezy.com**: iyikon. 
 * **vectorstock.com**: TioDwiyanto.
 * **youtube.com**: Adriana Sofia, Freedom Music Library, Magic Footprints, Música Para Videos, Roa: Tema, TV UNAM, x NKS Songs. 
+* Amigos de Guafdalajara. (2025, March 26). ¡Campaña de adopción de perros y gatos en la Vía RecreActiva! [In-person Visit]. Guadalajara, Mexico.
 * Arvizu Tovar, L. O., & Téllez Reyes Retana, E. R. (2016). Bienestar Animal en México: Un Panorama Normativo. Universidad Nacional Autónoma de México: Facultad de Medicina Veterinaria y Zootecnia. Mexico City, Mexico.
 * Casasola Rivera, W. (2021, February 9). Perros encadenados: el maltrato animal culturalmente aceptado. Hoy En El TEC. **https://www.tec.ac.cr/hoyeneltec/2021/02/09/perros-encadenados-maltrato-animal-culturalmente-aceptado**
 * Corridas de toros (2023, May 9). PETA Latino. **https://www.petalatino.com/sobre/nuestros-temas/los-animales-no-son-nuestros-para-usarlos-como-entretenimiento/corridas-de-toros/**
@@ -51,6 +52,7 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 
 ## Information for videos and questions
 
+* Amigos de Guafdalajara. (2025, March 26). ¡Campaña de adopción de perros y gatos en la Vía RecreActiva! [In-person Visit]. Guadalajara, Mexico.
 * Arvizu Tovar, L. O., Téllez Reyes Retana, E. R. (2016). Bienestar Animal en México: Un Panorama Normativo. Universidad Nacional Autónoma de México: Facultad de Medicina Veterinaria y Zootecnia. Mexico City, Mexico.
 * Berlanga, A. (2021, October 9). Resultados sobre el maltrato animal en México. Atlas Del Maltrato Animal / AnimaNaturalis. **https://sinmaltrato.org/maltrato**
 * Maldonado, M. M. (2024, June 11). Maltrato animal: Todos somos animales. Corriente Alterna. **https://corrientealterna.unam.mx/reportaje/maltrato-animal-todos-somos-animales/**
@@ -64,3 +66,4 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 * VIER PFOTEN International – gemeinnützige Privatstiftung. (n.d.). What to do, if you recognise abuse of animals? FOUR PAWS International - Animal Welfare Organisation. **https://www.four-paws.org/campaigns-topics/topics/companion-animals/preventcrueltytoanimals/what-to-do-if-you-recognise-abuse-of-animals**
 * Vega, A. (2023). Mexico: Overview. Michigan State University College of Law: Animal Legal & Historical Center. **https://www.animallaw.info/intro/mexico**
 * Venegas, A. T. C., Medrano, C. B. C., & Berumen, F. L. R. (2025). Comunicación/educación sobre el maltrato animal en la primera infancia. LATAM Revista Latinoamericana De Ciencias Sociales Y Humanidades, 6(2). **https://doi.org/10.56712/latam.v6i2.3643**
+
