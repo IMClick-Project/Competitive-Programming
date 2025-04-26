@@ -12,7 +12,7 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2041.png" height="50%">
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2042.png" height="50%">
 5. Allow the use of a camera.
-<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%205.png" height="50%">
+<img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%205.png" height="25%">
 6. Maximize the screen and click the Go button to start the application.
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2061.png" height="50%">
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/Step%2062.png" height="50%">
