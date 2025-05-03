@@ -19,8 +19,8 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 
 # More information
 
-* Pitch Video: 
-* Technical Video: 
+* Pitch Video: https://youtu.be/PQOw5S3YdJ8
+* Technical Video: https://youtu.be/tQBHjGejv3Q
 * The sb3 file has documentation about the app programming through comments.
 
 # Attributions and references
