@@ -17,6 +17,8 @@ Mexico ranks first in animal abuse in Latin America and third worldwide since 20
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%2061.png" height="50%">
 <img src="https://github.com/IMClick-Project/Programming/blob/main/Technovation%20Girls/TG2025/Step%2062.png" height="50%">
 
+**Note: During the development and testing of the application, all programming blocks were working correctly, but as of today (May 5), Raise Playground has a problem with the automatic translation blocks, it has already been reported and they are fixing it.**
+
 # More information
 
 * Pitch Video: https://youtu.be/PQOw5S3YdJ8
